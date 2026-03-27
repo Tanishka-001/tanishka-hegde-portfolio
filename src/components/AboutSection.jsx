@@ -112,9 +112,9 @@ export const AboutSection = () => {
                                     <Briefcase className="h-6 w-6 text-primary" />
                                 </div>
                                 <div>
-                                    <h4 className="font-semibold text-lg">Data Analytics Trainee – Exel Rubber</h4>
-                                    <p className="text-muted-foreground text-xs">May 2024 – Jul 2024</p>
-                                    <p className="text-muted-foreground mt-2 text-sm">Conducted SQL analysis and built Power BI dashboards.</p>
+                                    <h4 className="font-semibold text-lg">Data Analytics Intern – Exel Rubber</h4>
+                                    <p className="text-muted-foreground text-xs">May 2024 – August 2024</p>
+                                    <p className="text-muted-foreground mt-2 text-sm"> Worked on “Integrated Revenue and Customer Dynamics Analysis” project, delivering actionable insights through SQL analysis and interactive Power BI dashboards.</p>
                                 </div>
                             </div>
                         </div>
