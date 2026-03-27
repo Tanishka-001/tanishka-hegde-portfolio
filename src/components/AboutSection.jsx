@@ -138,7 +138,7 @@ export const AboutSection = () => {
                                 Get In Touch
                             </a>
                             <a 
-                                href="/CV/Tanishka_Hegde__CV.pdf" 
+                                href="/CV/Tanishka_Hegde_Curriculum_Vitae.pdf" 
                                 target="_blank" 
                                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors text-sm font-medium"
                             >
