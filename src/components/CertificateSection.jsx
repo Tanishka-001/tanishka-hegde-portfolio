@@ -18,8 +18,8 @@ return (
                                 <BookOpen className="h-6 w-6 text-primary" />
                             </div>
                             <div>
-                                <h4 className="font-semibold text-lg">HackerRank Certification</h4>
-                                <p className="text-muted-foreground text-xs">HackerRank | 27/03/2026</p>
+                                <h4 className="font-semibold text-lg"> SQL (Intermediate) Certificate </h4>
+                                <p className="text-muted-foreground text-xs"> HackerRank | 27/03/2026</p>
                                 <p className="text-sm text-muted-foreground mt-2">
                                     Demonstrated proficiency in problem-solving and coding skills through HackerRank challenges.
                                 </p>
