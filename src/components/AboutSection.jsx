@@ -100,7 +100,7 @@ export const AboutSection = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-semibold text-lg">Data Analytics Intern – CSRBOX</h4>
-                                    <p className="text-muted-foreground text-xs">Jun 2024 – Aug 2024</p>
+                                    <p className="text-muted-foreground text-xs">Remote|Flexible Hours, Jun 2024 – Aug 2024</p>
                                     <p className="text-muted-foreground mt-2 text-sm">Led team coordination as SPOC and analyzed gender inequality datasets.</p>
                                 </div>
                             </div>
@@ -113,7 +113,7 @@ export const AboutSection = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-semibold text-lg">Data Analytics Intern – Exel Rubber</h4>
-                                    <p className="text-muted-foreground text-xs">May 2024 – August 2024</p>
+                                    <p className="text-muted-foreground text-xs">May 2024 – July 2024</p>
                                     <p className="text-muted-foreground mt-2 text-sm"> Worked on “Integrated Revenue and Customer Dynamics Analysis” project, delivering actionable insights through SQL analysis and interactive Power BI dashboards.</p>
                                 </div>
                             </div>
@@ -138,11 +138,11 @@ export const AboutSection = () => {
                                 Get In Touch
                             </a>
                             <a 
-                                href="/CV/Tanishka_Hegde_Curriculum_Vitae.pdf" 
+                                href="/CV/Tanishka_Hegde_Resume_Portfolio_.pdf" 
                                 target="_blank" 
                                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors text-sm font-medium"
                             >
-                                Download CV
+                                Download Resume
                             </a>
                         </div>
                     </div>
